@@ -1,0 +1,279 @@
+Human rights in Canada have come under increasing public attention and legal protection since World War II. Inspired by Canada's involvement in the creation of the Universal Declaration of Human Rights in 1948, the current legal framework for human rights in Canada consists of the Canadian Charter of Rights and Freedoms, part of the Constitution of Canada, and statutory human rights laws, passed by the federal Parliament and the provincial legislatures. 
+The Supreme Court of Canada first recognized an implied bill of rights in 1938 in the decision Reference Re Alberta Statutes. Starting with the Saskatchewan Bill of Rights in 1947, the provinces and the federal government passed a series of laws to protect human rights.  Statutes originally tended to focus on specific issues, such as racial discrimination in housing or employment, and gradually expanded to comprehensive human rights statutes which took a general approach to discrimination.  As well, to ensure consistent enforcement of the human rights laws, governments began to create human rights commissions, charged with investigating human rights complaints and providing clear remedies.  By 1977, all ten provinces and the federal government had enacted human rights laws.
+Since the 1960s, Canada has placed emphasis on equality and inclusiveness for all people. In present-day Canada the idea of a "just society" is constitutionally protected. The Charter guarantees fundamental freedoms such as; free expression, religion, association and peaceful assembly rights and the right to life, liberty and security of the person. Other rights related to participation in elections, mobility, legal process, equality, language usage and minority-language education are also within the Charter.
+Internationally, Canada is a signatory to multiple human rights treaties, and ranks among the highest globally in measurements of civil rights. Notwithstanding there are significant issue of historic racism and discrimination against Indigenous peoples - including the modern day plight of violence faced by Indigenous women and girls, reports of excessive force used by law enforcement and racial profiling targeting visible minorities, concern with the treatment of migrants and refugees and the freedom of religion and language expression in Quebec society.
+
+== Constitutional and legal framework ==
+
+Human rights in Canada are given legal protections by the dual mechanisms of the Canadian Charter of Rights and Freedoms, which is part of the Constitution of Canada,  and statutory human rights codes, both federal and provincial.
+As part of the Constitution of Canada, the Charter applies equally to all governments in Canada:  federal, provincial, territorial, and municipal.  All governments are bound to comply with the rights and freedoms set out in the Charter.
+Another constitutional issue that relates to human rights is the federal division of powers between the Parliament of Canada and the provincial Legislatures.  Human rights are not assigned exclusively to either level of government.  Instead, each level of government has jurisdiction over human rights issues that arise in their respective areas of constitutional jurisdiction.  Federal laws relating to human rights only apply to activities that come within federal legislative jurisdiction, and provincial and territorial laws relating to human rights only apply to matters that come within provincial and territorial legislative jurisdiction.  
+Human rights claims are typically investigated by a human rights commission of the appropriate jurisdiction, either  the Canadian Human Rights Commission, for claims under federal human rights law, or a provincial human rights commission, for claims under provincial human rights law. If a human rights claim goes to adjudication, it may be in front of a specialised human rights tribunal, such as the Canadian Human Rights Tribunal for federal claims, or a provincial human rights tribunal for claims under provincial law.  In one province, Saskatchewan, there is no human rights tribunal and claims are adjudicated directly by the superior trial court of the province. A tribunal or court generally has broad remedial powers.
+
+== Constitutional protections ==
+
+The Canadian Charter of Rights and Freedoms is part of the Constitution of Canada. The Charter guarantees political, mobility, and equality rights and fundamental freedoms such as freedom of expression, freedom of assembly and freedom of religion for private individuals and some organisations. The Charter only applies to governments, requiring them to respect the rights and freedoms it sets out. Charter rights are enforced by legal actions in the criminal and civil courts, depending on the context in which a Charter claim arises.
+
+=== Fundamental freedoms ===
+Section 2 of the Canadian Charter of Rights and Freedoms guarantees four fundamental freedoms:
+
+freedom of conscience and religion;
+freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;
+freedom of peaceful assembly;
+freedom of association.
+
+==== Freedom of conscience and religion ====
+
+Freedom of conscience and religion is protected by section 2(a) of the Charter. Religious freedom is further protected by section 15 of the Charter, which promotes the pursuance of equality and the freedom from discrimination under enumerated or analogous grounds, one of which is religion.
+In a 1985 Supreme Court case, R. v. Big M Drug Mart Ltd., Chief Justice Brian Dickson said that religious freedom in Canada includes freedom of religious speech, including "the right to entertain such religious beliefs as a person chooses, the right to declare religious beliefs openly and without fear of hindrance or reprisal, and the right to manifest religious belief by worship and practice or by teaching and dissemination."
+Concerns with regards to religious freedom remain with respect to public funding of religious education in some provinces, public interest limitations of religious freedom, state religious neutrality and religious dress, and conflicts between anti-discrimination law and religiously motivated discrimination.
+Three provinces, Alberta, Ontario, and Saskatchewan, are constitutionally required to operate publicly funded separate religious schools. The Supreme Court has held that the funding is not discriminatory under the Charter. On November 5, 1999, the UN Human Rights Committee held that Canada was in breach of the equality provisions of the International Covenant on Civil and Political Rights. The Committee restated its concerns on November 2, 2005, observing that Canada had failed to "adopt steps in order to eliminate discrimination on the basis of religion in the funding of schools in Ontario."
+
+==== Freedom of expression ====
+
+Freedom of expression is protected by section 2(b) of the Charter, which guarantees "Freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication." Freedom of speech and expression has constitutional protection in Canada but is not absolute. Section 1 of the Charter allows limitations on this freedom if it can be "justified in a free and democratic society". The Charter protection works to ensure that all such limits are reasonable and strictly necessary. The approach by the Supreme Court on free expression has been that in deciding whether a restriction on freedom of expression is justified, the harms done by the particular form of expression must be weighed against the harm that would be done by the restriction itself.
+In Canada, legal limitations on freedom of expression include:
+
+Sedition, fraud, specific threats of violence, and disclosure of classified information
+Civil claims involving libel, defamation, fraud, or workplace harassment
+Violations of copyright laws
+Criminal offences involving hate speech and advocacy of genocide
+Municipal by-laws that regulate signage or where protests may take place
+Some limitations remain controversial due to concerns that they infringe on freedom of expression.
+
+==== Freedom of peaceful assembly ====
+Freedom of peaceful assembly is protected by section 2(c) of the Charter, which guarantees to all Canadians freedom of peaceful assembly. In 1987, the Supreme Court found in Reference Re Public Service Employee Relations Act (Alta), that although being written as a separate right, section 2(c) was closely related to freedom of expression.
+Recent controversies involving concerns about freedom of assembly in Canada include the eviction of Occupy Canada's protests from public parks in 2011, the possible effects of Bill C-51 on freedom of assembly, and CSIS surveillance of environmental and indigenous activists.
+
+==== Freedom of association ====
+Freedom of association is protected by section 2(d) of the Charter. This section provides Canadians the right to establish, belong to and maintain to any sort of organization unless that organization is otherwise illegal. This right only protects the right of individuals to form associations and not the activities of the associations themselves.
+Generally, this Charter right is used in the labour context where employees are given the right to associate with certain unions or other similar groups to represent their interests in labour disputes or negotiations. The Supreme Court also found in R. v. Advance Cutting & Coring Ltd. (2001), that the right to freedom of association also includes, at least to some degree, the freedom not to associate, but still upheld a law requiring all persons working in the province's construction industry to join a designated union.
+
+=== Equality protections ===
+Section 15 of the Charter is the constitutional guarantee of equality, before and under the law, and equal protection and equal benefit of the law.  This guarantee of equality is general and open-ended, but specifically enumerates certain fundamental personal characteristics as protected:  race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.  In addition, personal characteristics analogous to the enumerated ones can also be protected by section 15.  The Supreme Court has identified two such analogous personal characteristics:  sexual orientation and citizenship.
+
+==== Social equality ====
+Progressive rights issues that Canada has addressed include; discriminatory rights, assisted suicide rights, patient rights, parents' rights, children's rights, LGBTQ rights, abortion rights, minority rights, rights of the disabled, Indigenous rights, tenant rights and economic,  social and political rights.
+
+==== Race ====
+
+Section 15 of the Charter guarantees that "Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race."
+Throughout Canadian history, there has been a pattern of systemic racial discrimination, particularly towards indigenous persons, but to other groups as well, including African, Chinese, Japanese, South Asian, Jewish, and Muslim Canadians. These patterns of discrimination persist today. The UN Human Rights Council's Working Group of Experts on People of African Descent issued a report in 2017 finding "clear evidence that racial profiling is endemic in the strategies and practices used by law enforcement" in Canada. In 2018 Statistics Canada reported that members of immigrant and visible minority populations, compared with their Canadian-born and non-visible minority counterparts, were significantly more likely to report experiencing some form of discrimination on the basis of their ethnicity or culture, and race or skin colour.
+
+==== Sex ====
+
+Within the Canadian context, human rights protections for women consist of constitutional entitlements and federal and provincial statutory protections. Section 28 of the Canadian Charter of Rights and Freedoms guarantees that all "the rights and freedoms referred to in it are guaranteed equally to male and female persons". Section 28 is not a right in of itself, as it does not state that men and women are equal; this is done by section 15. Instead, section 28 ensures that men and women have equal claim to rights listed in the Charter.
+Abortion was criminalised in 1868, and remained so for the next 100 years. In 1969, the federal government of Prime Minister Pierre Trudeau passed the Criminal Law Amendment Act, 1968–69 which legalized therapeutic abortions, as long as a committee of doctors certified that continuing the pregnancy would likely endanger the woman's life or health. In 1988, the Supreme Court of Canada ruled in R. v. Morgentaler that the existing law was unconstitutional, and struck down the 1969 Act. By a 5-2 ruling, the Court found that the 1969 abortion law violated a woman's right to "security of the person" guaranteed under section 7 of the Charter.
+
+==== Disability ====
+
+The rights of disabled persons in Canada are protected under the Canadian Charter of Rights and Freedoms in section 15, which explicitly prohibits discrimination on the basis of mental or physical disability. Canada ratified the UN Convention on the Rights of Persons with Disabilities in 2010.
+
+==== LGBT ====
+
+The Supreme Court of Canada established in Egan v. Canada (1995), that sexual orientation was "a deeply personal characteristic that is either unchangeable or changeable only at unacceptable personal costs", and therefore was one of the analogous grounds to the explicitly mentioned groups in section 15 of the Charter. As the explicitly named grounds do not exhaust the scope of section 15, this reasoning has been extended to protect gender identity and status as a transgender person in CF v. Alberta (2014); however, it has not been formally recognized as an analogous ground.
+
+=== Language ===
+
+The perceived failure of Canada to establish the equality of the French and English languages was one of the main reasons for the rise of the Quebec secessionist movement, during the Quiet Revolution. Consequently, the federal government began officially adopting multicultural and bilingual policies in the 1970s and 1980s.
+The Constitution Act, 1982 established French and English as Canada's two official languages. Guarantees for the equal status of the two official languages are provided in sections 16–23 of the Canadian Charter of Rights and Freedoms. Section 16 guarantees that French and English “have equality of status and equal rights and privileges.” These sections of the charter provide a constitutional guarantee for the equal status of both languages in Parliament, in all federal government institutions, and federal courts.
+
+=== Multiculturalism ===
+
+Multiculturalism is reflected in the Charter through section 27 which states that "This Charter shall be interpreted in a manner consistent with the preservation and enhancement of the multicultural heritage of Canadians".
+
+== Federal legislation ==
+
+=== Discrimination ===
+In 1977, the federal Parliament enacted the Canadian Human Rights Act to prohibit discrimination in matters under federal jurisdiction.  The act applies throughout Canada, and protects people in Canada from discrimination by the federal government, or by  federally regulated enterprises, such as banks, airlines, interprovincial railways, telecommunications, and maritime shipping.
+The act sets out a defined list of prohibited grounds of discrimination:
+
+When the act was passed in 1977, the list of prohibited grounds of discrimination was shorter. Additional prohibited grounds have been added over time.
+
+=== Disability discrimination ===
+When the Canadian Human Rights Act was passed in 1977, it had a more limited prohibition on disability discrimination than is currently the case.  Section 3 of the act prohibited discrimination on the basis of "physical disability", and only in matters related to employment.  In 1983, Parliament expanded this protection to be on the basis of diability generally, which includes mental disability, and removed the restriction that it only related to matters of employment.
+Several programs and services are also subject to specific legislation requiring inclusive approaches. For example, Canada Elections Act requires that polling stations be accessible (e.g., providing material in multiple formats, open and closed caption videotapes for voters who are hearing impaired, a voting template for people with visual disabilities, and many other services).
+Other laws with disability provisions include section 6 of the Canada Evidence Act, which regulates evidence-gathering involving persons with mental and physical disabilities, and the Employment Equity Act, which requires private and public sector employers under federal jurisdiction to increase representation of persons with disabilities.
+Federal benefits include the Canada disability savings bond, and the Canada disability savings grant which are deposited into the Registered Disability Savings Plan (RDSP) of low-income families, as established by the Disability Savings Act. Disabled persons may also be eligible for the Disability Tax Credit, and the families of children with disabilities are eligible for the Canada Child Disability Benefit, a tax-free monthly payment.
+
+=== Sexual orientation, gender identity and expression ===
+Neither sexual orientation nor gender identity and expression were included in the Canadian Human Rights Act when it was passed in 1977.  Parliament amended the act in 1996 to include sexual orientation as a prohibited ground of discrimination. Parliament added gender identity or expression as additional prohibited grounds of discrimination through An Act to amend the Canadian Human Rights Act and the Criminal Code in 2017.
+In 2005, following a series of court cases across the country which held that same-sex marriage was constitutionally required, the federal Parliament passed the Civil Marriage Act, which made same-sex marriage legal throughout Canada.  Canada was the fourth country in the world, and the first in the Americas, to implement same-sex marriage.
+The Canadian federal government created the LGBTQ2 Secretariat in 2016 to support the integration of LGBTQ2 considerations into the everyday work of the Government of Canada. 
+On November 28, 2017, Prime Minister Justin Trudeau delivered a formal apology in the House of Commons to individuals harmed by federal legislation, policies and practices that led to the discrimination against LGBTQ2 people in Canada. He introduced the Expungement of Historically Unjust Convictions Act, which passed Parliament and received royal assent in June 2018. The legislation gives individuals who had been convicted of offences related to consensual same-sex activity the ability to apply to the Parole Board of Canada to have the record of a conviction expunged.  If the board grants the application, it has the same effect as a pardon.
+
+=== Sex discrimination ===
+While sex was included as a prohibited ground of discrimination when the Canadian Human Rights Act was passed in 1977, in 1978 the Supreme Court of Canada unanimously held that pregnancy was not included in the similar prohibition on sexual discrimination in the Canadian Bill of Rights.  In 1983, Parliament amended s. 3 of the Canadian Human Rights Act to expressly state that discrimination on the basis of sex includes pregnancy and childbirth.
+Beginning in the 1960s, Canada launched a series of affirmative action programs aimed at increasing representation of women in the federal public service. Today, the Employment Equity Act requires private and public sector employers under federal jurisdiction to increase representation of women, who are one of the four designated groups protected by the act.
+
+=== Multiculturalism Act ===
+Multiculturalism is reflected at the federal level through the Canadian Multiculturalism Act.  Enacted in 1988, the act affirms that the federal government recognizes the multicultural heritage of Canada, the rights of indigenous persons, minority cultural rights, and the right to social equality within society and under the law regardless of race, colour, ancestry, national or ethnic origin, creed or religion.
+
+== Provincial and territorial legislation ==
+
+At the provincial and territorial level, human rights are protected by the Charter and by provincial human rights legislation.  The Charter applies to provincial and territorial governments and agencies, and also local governments created by provincial and territorial law, such as municipalities and school boards. Provincial and territorial human rights laws also apply to governments, and more generally to activities under provincial or territorial jurisdiction, such as most workplaces, rental accommodation, education, and trade unions.
+Although there is variation among the matters covered by federal, provincial and territorial, they all generally provide anti-discrimination protections concerning employment practices, housing, and the provision of goods and services generally available to the public. The laws prohibit discrimination on enumerated personal characteristics, such as race, sex, religion or sexual orientation.
+All Canadian provinces and territories have legislation prohibiting discrimination on the basis of race, colour, and national or ethnic origin in employment practices, housing, the provision of goods and services, and in accommodation or facilities customarily available to the public.
+As of 2018, all Canadian provinces and territories have legislation prohibiting discrimination on the basis of sexual orientation and gender identity or expression in employment practices, housing, the provision of goods and services, and in accommodation or facilities customarily available to the public.
+There are several provincial and territorial programs focused on income, housing, and employment supports for persons living with disabilities.
+In January 2018, the Canadian Centre for Diversity and Inclusion released a report comparing provincial legislation regarding human rights. Every province includes slightly different "prohibited grounds" for discrimination, covers different areas of society (e.g. employment, tenancy, etc.), and applies the law slightly differently. For example, in Nunavut, the Nunavut Human Rights Act directs the Nunavut Human Rights Tribunal to interpret the law so as not to conflict with the Nunavut Land Claims Agreement and to respect the principles of Inuit Qaujimajatuqangit, described as "Inuit beliefs, laws, principles and values along with traditional knowledge, skills and attitudes." Nunavut is unique in Canada in basing its human rights code on an indigenous philosophical foundation, rather than a European-derived system.
+
+== Timeline of human rights legislation ==
+ 
+
+== Legal history and context ==
+
+=== Colonial period ===
+
+Overall, the colonial period in Canada was characterized by the systematic denial of human rights to Indigenous peoples, women, and non-white immigrants. These groups were subject to discriminatory laws and practices that denied them basic rights and freedoms. Slavery was practiced in Canada until it was made illegal under the Slavery Abolition Act 1833. The imposition of European legal systems and property rights led to the displacement and marginalization of Indigenous peoples. Canadian women were often denied basic rights such as the right to vote and own property, while immigrants were subjected to discrimination and exploitation in the workforce.
+The first legal protection for human rights in Canada related to religious freedom.  The Articles of Capitulation of the town of Quebec, negotiated between the French and British military commanders after the fall of Quebec in 1759, provided a guarantee of "the free exercise of the Roman religion" until the possession of Canada was determined by the British and French governments.  A similar guarantee was included in the Articles of Capitulation of Montreal the next year.  The two guarantees were formally confirmed by Britain in the Treaty of Paris, 1763, and then given statutory protection in the Quebec Act, 1774.  The result was that the British subjects in Quebec had greater guarantees of religious liberty at that time than did the Roman Catholic inhabitants of Great Britain and Ireland, who would not receive similar guarantees until Catholic emancipation in 1829.
+Nearly a century later, the Province of Canada passed similar legislation, ending the establishment of the Church of England in the province, and recognizing instead the principle of "legal equality among all religious denominations".  The act provided that the "free exercise and enjoyment of religious profession and worship" was protected by the Constitution and laws of the Province.
+
+=== Confederation ===
+
+==== Constitutional framework ====
+In 1867, Canada was created by the British North America Act 1867 (now named the Constitution Act, 1867).  In keeping with British constitutional traditions, the act did not include an entrenched list of rights, other than specific rights relating to language use in legislatures and courts, and provisions protecting the right of certain religious minorities to establish their own separate and denominational schools.  Canadian law instead followed the British constitutional approach in which the (unenumerated) "Rights of Englishmen" had traditionally been defended by all the branches of the government (Parliament, the courts, and the Crown) collectively and sometimes in competition with each other.  However, 20th century political and legal thought also emphasized the importance of freedom of contract and property rights as important aspects of liberty and the rule of law.  This approach meant that what are now viewed as human rights concerns, based on personal circumstances, would be considered of lesser importance than contractual and property rights.
+Human rights issues in the first seventy years of Canadian history thus tended to be raised in the framework of the constitutional division of powers between the federal and provincial governments.  A person who was affected by a provincial law could challenge that law in the courts, arguing that it intruded on a matter reserved for the federal government.  Alternatively, a person who was affected by federal law could challenge it in court, arguing that it intruded on a matter reserved for the provinces.  In either case, the focus was primarily on the constitutional authority of the federal and provincial governments, not on the rights of the individual.
+The division of powers is also the reason that the term "civil rights" is not used in Canada in the same way as it is used in other countries, such as the United States.  One of the main areas of provincial jurisdiction is "Property and civil rights", which is a broad phrase used to encompass all of what is normally termed the civil law, such as contracts, property, torts/delicts, family law, wills, estates and successions and so on.  This use of the phrase dates back to the Quebec Act 1774.  Given the broad, established meaning of "civil rights" in Canadian constitutional law, it has not been used in the more specific meaning of personal equality rights.  Instead, the terms "human rights" / "droits de la personne" are used.
+
+==== Early cases ====
+
+===== Union Colliery Co. v. Bryden (1899) =====
+In Union Colliery Co of British Columbia v Bryden a shareholder of Union Colliery Co. accused the company of violating the Coal Mines Regulation Act.  That law had been passed by the provincial Legislature of British Columbia and prohibited the hiring of people of Chinese origin, using an ethnic slur in the legislation. The company successfully challenged the constitutionality of the act on the grounds that it dealt with a matter of exclusive federal jurisdiction, namely "Naturalization and Aliens".  In reaching this conclusion, the Judicial Committee of the Privy Council, at that time the highest court for the British Empire, found that evidence which had been led at trial about the reliability and compentence of the Chinese employees of the colliery was irrelevant to the constitutional issue.  The personal circumstances and ability of those employees did not relate to the issue of federal and provincial jurisdiction.
+
+===== Cunningham v Homma (1902) =====
+The decision in Union Colliery did not establish any general principle of equality based on race or ethnicity.  In each case, the issue of race or ethnicity was simply one fact the courts took into account in determining if a matter was within federal or provincial jurisdiction.  For example, just three years later, in the case of Cunningham v Homma, a provincial law prohibiting people of Chinese, Japanese or Indian descent from voting in provincial elections was held to be constitutional.  The Judicial Committee rejected a challenge to the provincial law brought by a naturalized Japanese-Canadian, Tomekichi Homma, who had been denied the right to vote in British Columbia provincial elections.  The Judicial Committee held that control of the franchise in provincial elections came within the province's exclusive jurisdiction to legislate with respect to the constitution of the province.  Again, the personal circumstances of the individual, in this case whether naturalised or native-born, were not relevant to the issue of the constitutional authority of the province.  There was no inherent right to vote.
+
+===== Quong Wing v R (1914) =====
+
+Similarly, in the case of Quong Wing v R, the Supreme Court upheld a Saskatchewan law which prohibited businesses owned by anyone of Japanese, Chinese or other East Asian background from hiring any "white woman or girl" to work in the business.  The court, by a 4–1 majority, found that the province had jurisdiction over businesses and employment, or alternatively that the law in question was in relation to local public morality, another area of provincial jurisdiction.  The judges in the majority acknowledged that the law had an effect on some Canadians based on their race or ethnic origins, but that was not sufficient to take the case outside of provincial jurisdiction.  The dissenting judge, Justice John Idington, was the only one who would have struck down the statute, but as in the other cases, he based his conclusion on the division of powers, not on the rights of the individual.  He would have held that the provincial act limited the statutory rights granted by the federal Naturalization Act, and was therefore beyond provincial jurisdiction.
+
+===== Christie v York Corporation (1940) =====
+Canadian courts also upheld discrimination in public places based on freedom of contract and property rights.  For example, in Christie v York Corporation, the plaintiff, a black man, was denied service at a bar at the Montreal Forum.  He sued for damages, arguing that the tavern was under a duty to provide services to all members of the public.  The case reached the Supreme Court, which held by a 4–1 majority that the owner of the business had complete freedom of commerce and could refuse service to whomever it wished, on whatever grounds it wished.  The lone dissenter, Justice Davis, would have held that the Quebec statute regulating liquor sales to the public required restaurants to provide their service to all customers, without discrimination.
+
+===== The King v Desmond (1946) =====
+
+Viola Desmond, a black Nova Scotian, went to see a movie in a theatre in New Glasgow, Nova Scotia. The owner of the theatre would only allow white people to sit on the main floor. Non-whites had to sit in the gallery. Desmond, who was from out of town, did not know of the policy.  She bought a ticket for the movie and went onto the main floor. When the theatre employees told her to go to the gallery, she refused.  The police were called and she was forcibly removed. Desmond spent a night in jail and was fined $20, on the basis that by sitting on the main floor when her ticket was for the gallery, she had deprived the provincial government of the additional tax for the main floor ticket:  one cent.  She sought to challenge her treatment, by an application for judicial review of the tax ruling.  The court dismissed the challenge on the basis that the tax statute was neutral with respect to race.  The judge suggested in his decision that the outcome might have been different if she had instead appealed the conviction, on the basis that the law was being used improperly by the theatre owner to enforce a "Jim Crow" type of segregation.
+In 2018, the Bank of Canada announced that Viola Desmond would be the person shown on the new ten-dollar note.
+
+===== Noble v Alley (1955) =====
+Noble v. Alley was a challenge to a restrictive covenant for the sale of land at a cottage resort. The owner of the land had bought it with a requirement from an earlier owner that the land not be sold to Jewish or non-white people. The owner wished to sell it to an individual who was Jewish.  The owner challenged the restrictive covenant, over the opposition of other residents in the cottage resort. The Supreme Court held that the covenant was not enforceable on the basis that it was too vague, and that restrictive covenants on land had to be related to land use, not the personal characteristics of the owner.
+
+=== Contemporary legislation ===
+
+Many of the rights and freedoms that are protected under the Charter, including the rights to freedom of speech, habeas corpus, and the presumption of innocence, have their roots in a set of Canadian laws and legal precedents sometimes known as the Implied Bill of Rights. Many of these rights were also included in the Canadian Bill of Rights, which the Canadian Parliament enacted in 1960. However, the Bill of Rights had a number of shortcomings. Unlike the Charter, it was an ordinary Act of Parliament, applicable only to the federal government. 
+
+==== Implied Bill of Rights (1938) ====
+
+In 1938 there was a development in judicial protection of rights. The government of the province of Alberta had passed a series of laws to implement its social credit platform, and had come under heavy media criticism.  In response, the Legislature enacted the Accurate News and Information Act, which would give the government the power to direct media's coverage of the government.  The federal government referred several of the Alberta bills to the Supreme Court for a reference opinion.  Three of the six members of the court found that public comment on the government, and freedom of the press, are so important to a democracy that there is an implied bill of rights in Canada's Constitution, to protect those values.  The court suggested that only the federal Parliament could have the power to impinge on political rights protected by the implied bill of rights.  The Accurate News and Information Act was therefore unconstitutional.  The Supreme Court has not, however, used the "implied bill of rights" in very many subsequent cases.
+
+==== Saskatchewan Bill of Rights (1947) ====
+
+The events leading up to World War II, and the genocidal practices of the Nazi government of Germany, had a major effect on the protection of human rights in Canada. Tommy Douglas, at that time a Member of Parliament from Saskatchewan, was in Europe in 1936 and witnessed the Nuremberg Rally of that year, which had a significant effect on him.  When he was elected Premier of Saskatchewan, one of his first goals was to entrench human rights in Canada's constitution.  At the 1945 Dominion-Provincial Conference he proposed adding a bill of rights to the British North America Act, 1867, but was not able to gain support for the proposal.  Instead, in 1947, the Government of Saskatchewan introduced the Saskatchewan Bill of Rights, the first bill of rights in the Commonwealth since the English Bill of Rights of 1689.
+The Saskatchewan Bill of Rights provided significant protections for fundamental freedoms:
+
+right to freedom of conscience and religion (s. 3);
+right to free expression (s. 4);
+right to peaceable assembly and association (s. 5);
+right to freedom from arbitrary imprisonment and right to immediate judicial determination of a detention (s. 6);
+right to vote in provincial elections (s. 7).
+Provinces began to follow Saskatchewan's lead and enacted human rights laws: Ontario (1962), Nova Scotia (1963), Alberta (1966), New Brunswick (1967), Prince Edward Island (1968), Newfoundland (1969), British Columbia (1969), Manitoba (1970)  and Quebec (1975).
+
+==== Canadian Bill of Rights (1960) ====
+
+John Diefenbaker, also from Saskatchewan, was another early proponent of protecting human rights in Canada.  He wrote a first draft of a bill of rights as a young lawyer in the 1920s. Elected a Member of Parliament in 1940, he regularly introduced a motion each year from 1946 onwards, calling for Parliament to enact a bill of rights at the federal level.  He was concerned that there be a guarantee of equality for all Canadians, not just those who had English or French heritage.  He also wanted protection for basic freedoms, such as freedom of expression.
+In 1960, by then the Prime Minister of Canada, Diefenbaker introduced the Canadian Bill of Rights.  This federal statute provide guarantees, binding on the federal government, to protect freedom of speech, freedom of religion, equality rights, the right to life, liberty and security of the person, and property rights.  It also sets out significant protections for individuals charged with criminal offences.
+The Canadian Bill of Rights suffered from two drawbacks.  First, as a statute of the federal Parliament, it was only binding on the federal government.  The federal parliament does not have the constitutional authority to enact laws which bind the provincial governments in relation to human rights.  Second, and following from the statutory nature of the bill, the courts were reluctant to use the provisions of the bill as the basis for judicial review of federal statutes.  Under the doctrine of parliamentary supremacy, the courts were concerned that one Parliament cannot bind future Parliaments.
+In two significant cases, the Supreme Court rejected attempts to use the Bill of Rights to review legislation. In Bliss v. Canada, the court rejected a gender-based challenge to unemployment benefits which did not apply to pregnant women, while in Attorney General of Canada v. Lavell, the court rejected a challenge based on gender and indigenous status to provisions of the Indian Act. A notable exception was R. v. Drybones, which did use the Bill of Rights to overturn a different provision of the Indian Act.
+
+==== Canadian Human Rights Acts (1977) ====
+
+==== Canadian Charter of Rights and Freedoms (1982) ====
+
+== International legislation and domestic influence ==
+Canada has ratified a multitude of international humanitarian declarations and conventions, such as those outlined in the Universal Declaration of Human Rights, Geneva Conventions and Rome Statute. Canada, as a country, was deeply inspired by the principles laid out in the Universal Declaration of Human Rights after world war II. This declaration, adopted by the United Nations in 1948, outlines the fundamental rights and freedoms that every individual is entitled to. In Canada, these principles have guided the development of laws and policies that protect the rights and dignity of all its citizens. Canadian lawyer and scholar John Humphrey played a key role in drafting the Declaration, which consists of 30 articles defining universal human rights, including equality and freedom from discrimination. These principles influenced the Canadian Human Rights Act.
+The Supreme Court of Canada has noted the important role played by international human rights law in the country and the influence that treaties can have on the interpretation of domestic legislation and the charter. International customary laws are generally considered to be automatically part of Canadian law so long as they do not conflict with existing Canadian legislation, as established in R v Hape (2007). Canada follows a dualist approach with respect to the domestic effect of international treaties. The dualist system means that in order for the treaty obligations to be given the force of law domestically, the treaty must be incorporated into domestic legislation. In Canada, international human rights treaties are, in general, not directly incorporated into domestic law but, rather, are implemented through a variety of laws, policies and programs at the federal, provincial and territorial level.
+Canada has ratified seven principal UN human rights conventions and covenants:.
+
+International Convention on the Elimination of All Forms of Racial Discrimination (accession by Canada in 1970)
+International Covenant on Civil and Political Rights (accession by Canada in 1976)
+International Covenant on Economic, Social and Cultural Rights (ratified by Canada in 1976)
+Convention on the Elimination of All Forms of Discrimination against Women (ratified by Canada in 1981)
+Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (ratified by Canada in 1987)
+Convention on the Rights of the Child (ratified by Canada in 1991)
+Convention on the Rights of Persons with Disabilities (ratified by Canada in 2010)
+
+== Human rights abuses ==
+
+=== Historical cases ===
+
+==== Indigenous peoples ====
+
+==== Chinese immigration tax ====
+ 
+The Chinese head tax was a fixed fee charged to each Chinese person entering Canada. The head tax was first levied after the Canadian parliament passed the Chinese Immigration Act of 1885 and was meant to discourage Chinese people from entering Canada after the completion of the Canadian Pacific Railway. The tax was abolished by the Chinese Immigration Act of 1923, which stopped Chinese immigration altogether, except for business people, clergy, educators, students, and other categories.
+
+==== South Asian immigrants ====
+
+==== Internment camps ====
+
+===== Ukrainian Canadians =====
+
+The Ukrainian Canadian internment was part of the confinement of "enemy aliens" in Canada during and for two years after the end of the First World War, lasting from 1914 to 1920, under the terms of the War Measures Act. About 4,000 Ukrainian men and some women and children of Austro-Hungarian citizenship were kept in twenty-four internment camps and related work sites – also known, at the time, as concentration camps. Many were released in 1916 to help with the mounting labour shortage.
+
+===== Japanese Canadians =====
+
+Japanese Canadian internment refers to confinement of Japanese Canadians in British Columbia during World War II. The internment began in December 1941, after the attack by carrier-borne forces of Imperial Japan on American naval and army facilities at Pearl Harbor. The Canadian federal government gave the internment order based on speculation of sabotage and espionage, although the RCMP and defence department lacked proof. Many interned children were brought up in these camps, including David Suzuki, Joy Kogawa, and Roy Miki. The Canadian government promised the Japanese Canadians that their property and finances would be returned upon release; however, these assets were sold off cheaply at auctions.
+
+===== Italian Canadians =====
+
+==== International  cases ====
+
+===== Somalia Affair =====
+
+Canadian peacekeepers have been accused of being complicit in human rights abuses abroad, notably in 1993 when  the Canadian Armed Forces were deployed during the Somali Civil War to support UNOSOM I in a peace enforcement capacity. Soldiers from the Canadian Airborne Regiment tortured and killed a 16-year-old youth who broke into the encampment. Known as the Somalia affair, the incident has been described as "the darkest era in the history of the Canadian military" and  led to the regiment's disbandment.
+
+=== Contemporary  issues ===
+
+==== Clean water access in First Nation communities ====
+
+Many First Nation communities throughout Canada experience frequent and long term drinking water advisories, the longest of which at Neskantaga First Nation having been in continual effect since 1995. Access to safe drinking water is classified as a human right by many international treaties ratified by Canada, including the International Covenant on Economic, Social and Cultural Rights, the Convention on the Rights of the Child, and the International Covenant on Civil and Political Rights. The failure to adequately address the water advisories has led to condemnation by many human rights bodies including the United Nations Committee on Economic, Social and Cultural Rights. In 2015 the Canadian government committed to ending all long term drinking water advisories by March 2021 and would successfully reduce the number of water advisories by 81% as of February 2023. While the Canadian government would fail to meet its 2021 deadline, efforts are ongoing, however no new deadline has been set, with 32 advisories still being in effect as of February 2023.
+
+==== Disabled ====
+
+Despite significant gains for people with disabilities in recent decades, there is historical and modern discrimination issues. People with disabilities have faced institutionalization, involuntary sterilization, employment denialism and emotional and physical violence. Those with disabilities continue to have lower educational achievement, higher unemployment rates, and are more likely to experience low income and inadequate housing compared to those without disabilities.  Canada's provincial disability programs do not provide sufficient income to recipients to enable them to afford typical food and housing costs of $341 per month and $1529/month for a studio apartment respectively. In Ontario and British Columbia, disability support program payments max out at $1308 and $1483.50 per month, respectively, for an individual.
+
+==== Missing and murdered Indigenous women and girls ====
+
+Within Canada, indigenous women and girls are disproportionately the victims of kidnaping and murder with thousands of such cases occurring in the past 30 years. Indigenous women have been found to represent 10% of all women reported missing for longer than 30 days, and are 6 times more likely to be the victims of homicide compared to non-indigenous women. As a result of the crisis the federal government and all ten provincial governments conducted a National Inquiry into Missing and Murdered Indigenous Women from 2016 to 2019, with the inquiry concluding that the crisis represented a continued “race, identity and gender-based genocide.”
+
+==== Racial profiling and excessive force used by law enforcement ====
+
+The issue of excessive police force incidents in Canada has been a topic of concern for many years. There have been numerous cases where individuals have been subjected to unnecessary and excessive force by law enforcement officers. These incidents have raised questions about the accountability and oversight of police forces in Canada.
+The use of excessive force by police officers disproportionately affects marginalized communities in Canada, including Indigenous peoples, racialized communities, and those experiencing mental health crises. Studies have also shown that individuals from these communities are more likely to be subjected to increased levels of incarnation.
+
+==== Bill 101 in Quebec ====
+
+The Charter of the French Language, also known as Bill 101 in Quebec is  a statute passed by the National Assembly of Quebec in 1977, the "language Charter"  The law was enacted to propagate the French language and restrict the use of English. For example, the current law specifies that commercial outdoor signs can be multilingual so long as French is markedly predominant. In 1993, the United Nations Human Rights Committee ruled that Quebec's sign laws broke an international covenant on civil and political rights. "A State may choose one or more official languages," the committee wrote, "but it may not exclude, outside the spheres of public life, the freedom to express oneself in a language of one's choice."
+
+==== Bill 21  in Quebec ====
+The Act respecting the laicity of the State  introduced and commonly referred to as Bill 21 or Law 21, is a statute passed by the National Assembly of Quebec in 2019. Human rights issue that has been raised in relation to this law is the right to freedom of religion. The Act prohibits certain public employees, such as teachers and judges, from wearing religious symbols at work, which can limit their ability to freely practice their faith.  Some argue this goes against the Canadian Charter of Rights and Freedoms, which guarantees the right to freedom of religion. Some also argue that the Act targets certain religious groups, particularly Muslim women who wear headscarves, by singling them out and prohibiting them from wearing their religious symbols in public positions.
+
+==== Refugees, asylum seekers and migrants ====
+
+A record 405,000 immigrants were admitted in 2021. Canada leads the world in refugee resettlement; it resettled more than 47,600 in 2022. Immigration detention centers are meant to house individuals who are awaiting deportation or undergoing immigration proceedings, but they have become sites of mistreatment and human rights violations. Reports have surfaced detailing instances of physical abuse, lack of access to medical care, and discriminatory practices within these facilities. One of the main issues facing asylum seekers in Canada is the lack of access to legal representation and support. The lengthy processing times for asylum claims can leave individuals and families in a state of limbo, unsure of their fate and vulnerable to exploitation.
+
+== Survey ==
+
+Surveys conducted in 2023 and again in 2024 by Probe Research Inc. for the Canadian Museum for Human Rights have examined how people in Canada engage with human rights. 
+Respondents pointed out that what people care about changed from 2023 to 2024. "Censorship, freedom of speech, and being 'cancelled'" moved up from being the fourth most important human rights issue to the number one spot in 2024. Even though sexism and women’s rights still matter a lot around the world, they were viewed as improving in Canada. Disability rights did not come up as often as a big priority, but 70% of people said they support making businesses accessible for everyone, no matter the expense. Also, many respondents agreed that we need to focus more on disability rights.
+Between 2023 and 2024, a noticeable rise occurred in the number of people who said they had gone through at least one violation of their human rights. The figures were especially high for Indigenous people, at 56%, and for 2SLGBTQ+ individuals, at 52%, in 2024. They observed that having direct experience with a human rights violation made it more likely for someone to become an upstander. An upstander is someone who acts when they see something unfair happening, using their own abilities and resources to bring attention to and fix these unfair situations.
+
+== International indices ==
+
+Several non-governmental organizations publish freedom indices, which are assessments of political rights and civil liberties for countries around the world.
+According to Freedom in the World, an annual report by US-based think-tank Freedom House, which rates political rights and civil liberties, in 2023 Canada was ranked "Free" (the highest possible rating), with a Global Freedom Score of 97 out of 100.
+According to the Democracy Index, an annual index published by the U.K.-based Economist Intelligence Unit, that measures pluralism, civil liberties, and the state of democracy, in 2023 Canada was ranked 13th out of 167 countries and received a score of 8.69 out of 10.00.
+According to the annual Worldwide Press Freedom Index published by Reporters Without Borders, Canada ranked 14th out of 180 countries in 2024, up one spot from 15th in 2023 and from 19th in 2022.
+According to the annual Corruption Perceptions Index,  published by Transparency International, Canada was ranked  12th out of 180 countries from the top least corrupt in 2024.
+The Index of Economic Freedom  an annual index by The Heritage Foundation and The Wall Street Journal to measure the degree of economic freedom, ranks Canada 14th out of 177 in 2024, with a score of 73.7 out of 100.

@@ -1,0 +1,35 @@
+# PostgreSQL 16 with the pgvector extension pre-installed.
+#   Start:   docker compose up -d
+#   Stop:    docker compose down          (your data survives in the "pgdata" volume)
+#   Wipe:    docker compose down -v       (deletes the database too)
+#
+# Ollama runs natively on Windows (better GPU support on laptops), so it is not in this file.
+# If you prefer Ollama in Docker as well, uncomment the "ollama" service below.
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: rag-postgres
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: text_embeddings
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      # Runs once, when the database is first created: enables the vector extension.
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+
+  # ollama:
+  #   image: ollama/ollama
+  #   container_name: rag-ollama
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ollama:/root/.ollama
+
+volumes:
+  pgdata:
+  # ollama:

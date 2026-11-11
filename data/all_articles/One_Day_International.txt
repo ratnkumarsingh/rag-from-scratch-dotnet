@@ -1,0 +1,103 @@
+One Day International (ODI) is a format of cricket played between two teams with international status in which each team faces a fixed number of fifty overs, with games lasting up to 7 hours. The World Cup, generally held every four years, is played in this format. They are major matches and considered the highest standard of List A limited-overs competition.
+The international one-day game is a late-twentieth-century development. The first ODI was played on 5 January 1971 between Australia and England at the Melbourne Cricket Ground. When the first three days of the third Test were washed out, officials decided to abandon the match and instead play a one-off one day game consisting of 40 eight-ball overs per side. Australia won the game by 5 wickets. ODIs were played in white-coloured kits with a red-coloured ball.
+In the late 1970s, Kerry Packer established the rival World Series Cricket competition, which introduced many of the features of One Day International cricket that are now commonplace, including coloured uniforms, matches played at night under floodlights with a white ball and dark sight screens, and for television broadcasts, multiple camera angles, effects microphones to capture sounds from the players on the pitch, and on-screen graphics. The first of the matches with coloured uniforms was the WSC Australians in wattle gold versus WSC West Indians in coral pink, played at VFL Park in Melbourne on 17 January 1979. This led not only to Packer's Channel 9 getting the TV rights to cricket in Australia but also led to players worldwide being paid to play and becoming international professionals, no longer needing jobs outside cricket. Matches played with coloured kits and a white ball became more commonplace over time, and the use of white flannels and a red ball in ODIs ended in 2001.
+
+The International Cricket Council (ICC), international cricket's governing body, maintains the ICC ODI Rankings for teams (see table on the right), batsmen, bowlers and all-rounders.
+
+== Rules ==
+In the main the laws of cricket apply, but with each team batting for a fixed number of overs. In the early days of ODI cricket the number of overs varied from 40 to 60 overs per side (or 35 to 40 eight-ball overs), but it has been uniformly fixed at 50 overs since the mid-1990s.
+Simply stated, the game works as follows:
+
+An ODI is contested by two teams of 11 players each.
+The Captain of the side winning the toss chooses to either bat or bowl (field) first.
+The team batting first sets the target score in a single innings. The innings lasts until the batting side is "all out" (i.e., 10 of the 11 batting players are "out") or all of the first side's allotted overs are completed.
+Each bowler is restricted to bowling a maximum of 10 overs (fewer in the case of rain-reduced matches and in any event generally no more than one fifth or 20% of the total overs per innings). Therefore, each team must comprise at least five competent bowlers (either dedicated bowlers or all-rounders).
+The team batting second tries to score more than the target score in order to win the match. Similarly, the side bowling second tries to bowl out the second team or make them exhaust their overs before they reach the target score in order to win.
+If the number of runs scored by both teams is equal when the second team loses all its wickets or exhausts all its overs, then the game is declared a tie (regardless of the number of wickets lost by either team).
+Where a number of overs are lost, for example, due to inclement weather conditions, then the total number of overs may be reduced. In the early days of ODI cricket, the team with the better run rate won (see Average Run Rate method), but this favoured the second team. For the 1992 World Cup, an alternative method was used of simply omitting the first team's worst overs (see Most Productive Overs method) but that favoured the first team. Since the late 1990s, the target or result has usually been determined by the Duckworth–Lewis–Stern method (DLS, formerly known as the Duckworth–Lewis method), which is a method with statistical approach. It takes into consideration the fact that the wickets in hand plays a crucial role in pacing the run rate and that a team with more wickets in hand can play far more aggressively than the team with fewer wickets in hand. When insufficient overs are played (usually 20 overs) to apply the DLS, a match is declared no result. Important one-day matches particularly in the latter stages of major tournaments, may have two days set aside, such that a result can be achieved on the "reserve day" if the first day is washed out—either by playing a new game, or by resuming the match which was rain-interrupted.
+Because the game uses a white ball instead of the red ball used in first-class cricket, the ball can become discolored and hard to see as the innings progresses, so the ICC has used various rules to help keep the ball playable. Most recently, the ICC has made the use of two new balls (one from each end), the same strategy that was used in the 1992 and 1996 World Cups so that each ball is used for only 25 overs. Previously, in October 2007, the ICC sanctioned that after the 34th over, the ball would be replaced with a cleaned previously used ball. Before October 2007 (except 1992 and 1996 World Cups), only one ball would be used during an innings of an ODI and it was up to the umpire to decide whether to change the ball.
+At the start of an ODI innings, two balls can be used, one from each end. However, starting from June 2025, after the 34th over, the bowling team can pick one of the two balls to keep using until the innings ends. This change is designed to bring back reverse swing bowling and make the game fairer between batsmen and bowlers.
+
+=== Fielding restrictions and powerplays ===
+
+The bowling side is subjected to fielding restrictions during an ODI, in order to prevent teams from setting wholly defensive fields. Fielding restrictions dictate the maximum number of fielders allowed to be outside the thirty-yard circle.
+Under current ODI rules, there are three levels of fielding restrictions:
+
+In the first 10 overs of an innings (the mandatory powerplay), the fielding team may have at most two fielders outside the 30-yard circle. This allows only attacking fields to be set during the powerplay.
+Between 11 and 40 overs four fielders will be allowed to field outside the 30-yard circle. Either an Attacking or Normal Field can be set in the second powerplay.
+In the final 10 overs five fielders will be allowed to field outside the 30-yard circle. All three types of fields (attacking, defensive and normal fields) can be used in the third powerplay.
+The three powerplays are referenced by P1, P2 and P3 respectively, usually displayed near the score in modern scorecards.
+
+==== History ====
+Fielding restrictions were first introduced in the Australian 1980–81 season. By 1992, only two fielders were allowed outside the circle in the first fifteen overs, then five fielders allowed outside the circle for the remaining overs. This was shortened to ten overs in 2005, and two five-over powerplays were introduced, with the bowling team and batting team having discretion over the timing for one-one each. In 2008, the batting team was given discretion for the timing of one of the two powerplays. In 2011, the teams were restricted to completing the discretionary powerplays between the 16th and 40th overs; previously, the powerplays could take place at any time between the 11th and 50th overs. Finally, in 2012, the bowling powerplay was abandoned, and the number of fielders allowed outside the 30-yard circle during non-powerplay overs was reduced from five to four.
+
+=== Trial regulations ===
+The trial regulations also introduced a substitution rule that allowed the introduction of a replacement player at any stage in the match and until he was called up to play he assumed the role of 12th man. Teams nominated their replacement player, called a Supersub, before the toss. The Supersub could bat, bowl, field or keep wicket once a player was replaced; the replaced player took over the role of 12th man. Over the six months it was in operation, it became very clear that the Supersub was of far more benefit to the side that won the toss, unbalancing the game. Several international captains reached "gentleman's agreements" to discontinue this rule late in 2005. They continued to name Supersubs, as required but they did not field them by simply using them as a normal 12th man. On 15 February 2006, the ICC announced their intention to discontinue the Supersub rule on 21 March 2006. Two balls were trialled in ODI for two years but it was rejected.
+
+== Teams with ODI status ==
+The International Cricket Council (ICC) determines which teams have ODI status (meaning that any match played between two such teams under standard one-day rules is classified as an ODI).
+
+=== Permanent ODI status ===
+
+The twelve Test-playing nations (which are also the twelve full members of the ICC) have permanent ODI status. The nations are listed below with the date of each nation's ODI debut after gaining full ODI status shown in brackets (Sri Lanka, Zimbabwe, Bangladesh, Ireland, and Afghanistan were ICC associate members at the times of their ODI debuts):
+
+ Australia (5 January 1971)
+ England (5 January 1971)
+ New Zealand (11 February 1973)
+ Pakistan (11 February 1973)
+ West Indies (5 September 1973)
+ India (13 July 1974)
+ Sri Lanka (13 February 1982)
+ South Africa (10 November 1991)
+ Zimbabwe (25 October 1992)
+ Bangladesh (10 October 1997)
+ Afghanistan (5 December 2017)
+ Ireland (5 December 2017)
+
+=== Temporary ODI status ===
+Between 2005 and 2017, the ICC granted temporary ODI status to six other teams (known as Associate members). In 2017, this was changed to four teams, following the promotion of Afghanistan and Ireland to Test status (and permanent ODI status). The ICC had previously decided to limit ODI status to 16 teams. Teams earn this temporary status for a period of four years based on their performance in the ICC World Cup Qualifier, which is the final event of the ICC World Cricket League. In 2019, the ICC increased the number of teams holding temporary ODI status to eight.
+The following eight teams currently have this status (the dates listed in brackets are of their first ODI match after gaining temporary ODI status):
+
+ Scotland (from 27 June 2006, until the 2026 Cricket World Cup Qualifier)
+ United Arab Emirates (from 1 February 2014, until the 2026 Cricket World Cup Qualifier)
+   Nepal (from 1 August 2018, until the 2026 Cricket World Cup Qualifier)
+ Netherlands (from 1 August 2018, until the 2026 Cricket World Cup Qualifier)
+ Namibia (from 27 April 2019, until the 2026 Cricket World Cup Qualifier)
+ Oman (from 27 April 2019, until the 2026 Cricket World Cup Qualifier)
+ United States (from 27 April 2019, until the 2026 Cricket World Cup Qualifier)
+ Canada (from 27 March 2023, until the 2026 Cricket World Cup Qualifier)
+Additionally, eight teams have previously held this temporary ODI status before either being promoted to Test Status or relegated after under-performing at the World Cup Qualifier:
+
+ Kenya (from 10 October 1997, until 30 January 2014)
+ Canada (from 16 May 2006, until 28 January 2014)
+ Bermuda (from 17 May 2006, until 8 April 2009)
+ Ireland (from 13 June 2006, until 21 May 2017)
+ Netherlands (from 4 July 2006, until 28 January 2014)
+ Afghanistan (from 19 April 2009, until 14 June 2017)
+ Hong Kong (from 1 May 2014, until 17 March 2018)
+ Papua New Guinea (from 8 November 2014, until 5 April 2023)
+The ICC occasionally granted associate members permanent ODI status without granting them full membership and Test status. This was originally introduced to allow the best associate members to gain regular experience in internationals before making the step up to full membership. First Bangladesh and then Kenya received this status. Bangladesh have since made the step up to Test status and full membership; but as a result of disputes and poor performances, Kenya's ODI status was reduced to temporary in 2005, meaning that it had to perform well at World Cup Qualifiers to keep ODI status. Kenya lost ODI status after finishing in fifth place at the 2014 Cricket World Cup Qualifier event.
+
+=== Special ODI status ===
+The ICC can also grant special ODI status to all matches within certain high-profile tournaments, with the result being that the following countries have also participated in full ODIs, with some later gaining temporary or permanent ODI status also fitting into this category:
+
+ East Africa (1975 World Cup)
+ Sri Lanka (1975 World Cup, 1979 World Cup)
+ Canada (1979 World Cup, 2003 World Cup, 2023 ICC Cricket World Cup Qualifier Play-off)
+ Zimbabwe (1983 World Cup, 1987 World Cup, 1992 World Cup)
+ Bangladesh (1986 Asia Cup, 1988 Asia Cup, 1990 Austral-Asia Cup, 1990 Asia Cup, 1995 Asia Cup, 1997 Asia Cup)
+ United Arab Emirates (1994 Austral-Asia Cup, 1996 World Cup, 2004 Asia Cup and 2008 Asia Cup)
+ Kenya (1996 World Cup, 1996 Sameer Cup)
+ Netherlands (1996 World Cup, 2002 ICC Champions Trophy and 2003 World Cup)
+ Scotland (1999 World Cup)
+ Namibia (2003 World Cup)
+ Hong Kong (2004 Asia Cup, 2008 Asia Cup and 2018 Asia Cup)
+ United States (2004 ICC Champions Trophy)
+ Jersey (2023 ICC Cricket World Cup Qualifier Play-off)
+Finally, since 2005, three composite teams have played matches with full ODI status. These matches were:
+
+The World Cricket Tsunami Appeal, a one-off match between the Asian Cricket Council XI vs ICC World XI in the 2004/05 season.
+The Afro-Asia Cup, two three-ODI series played in 2005 and 2007 Afro-Asia Cup between the Asian Cricket Council XI and the African XI.
+The ICC Super Series, a three-ODI series played between the ICC World XI and the then-top-ranked Australian cricket team in the 2005/06 season.
+
+== Rankings ==

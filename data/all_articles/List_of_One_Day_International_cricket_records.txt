@@ -1,0 +1,208 @@
+One Day International (ODI) cricket is played between international cricket teams who are full members of the International Cricket Council (ICC) as well as the top four associate members. Unlike Test matches, ODIs consist of one innings per team, having a limit in the number of overs, currently 50 overs per innings – although in the past this has been 55 or 60 overs. ODI matches are a subset of List A cricket.
+The earliest match recognised as an ODI was played between England and Australia in January 1971; since when there have been more than 4,900 ODIs played by 29 teams. The frequency of matches has steadily increased, partly because of the increase in the number of ODI-playing countries, and partly as the cricket boards of those nations seek to maximise their revenue with the increased popularity of cricket, a process that dates from the time of the Packer Revolution. In February 2022, in their home series against the West Indies, India played their 1,000th ODI match, becoming the first team to play one thousand matches in this format.
+The trend of countries to increase the number of ODI matches they play means that the aggregate lists are dominated by modern players, though this trend is reversing as teams play more Twenty20 Internationals. Indian cricketer Sachin Tendulkar has scored the most runs in ODIs with a total of 18,426. Sri Lankan spinner Muttiah Muralitharan is the highest ODI wicket-taker with a total of 534 wickets. The record for most dismissals by a wicket-keeper is held by Kumar Sangakkara of Sri Lanka while the record for most catches by a fielder is held by Sri Lankan Mahela Jayawardene.
+
+== Listing criteria ==
+In general the top five are listed in each category (except when there is a tie for the last place among the five, in which case all the tied record holders are noted).
+
+== Listing notation ==
+Team notation
+
+(300–3) indicates that a team scored 300 runs for three wickets and the innings was closed, either due to a successful run chase or if no overs remained (or are able) to be bowled.
+(300) indicates that a team scored 300 runs and was all out, either by losing all ten wickets or by having one or more batsmen unable to bat and losing the remaining wickets.
+Batting notation
+(100*) indicates that a batsman scored 100 runs and was not out.
+(175) indicates that a batsman scored 175 runs and was out after that.
+Bowling notation
+(5–40) indicates that a bowler has captured 5 wickets while giving away 40 runs.
+(49.5 overs) indicates that a team bowled 49 complete overs (each of six legal deliveries), and one incomplete over of just five deliveries.
+Active players
+Currently active ODI players appear in boldface.
+Currently active ODI officials are shown by ‡.
+Seasons
+
+Cricket is played during the summer months in most countries. Domestic cricket seasons in Australia, New Zealand, South Africa, India, Pakistan, Sri Lanka, Bangladesh, Zimbabwe and the West Indies may therefore span two calendar years, and are by convention said to be played in (e.g.) "2008–09". A cricket season in England is described as a single year. e.g. "2009". An international ODI series or tournament may be for a much shorter duration, and Cricinfo treats this issue by stating "as a rule of thumb, any series or tour or tournament which began between the six months of April and September of any given year will appear in the relevant single year season and any that began between October and March will appear in the relevant cross-year season". In the record tables, a two-year span generally indicates that the record was set within a domestic season in one of the above named countries.
+
+== Team records ==
+
+== Result records ==
+
+=== Greatest win margin (by runs) ===
+
+=== Greatest win margin (by balls remaining) ===
+
+=== Greatest win margin (by wickets) ===
+As of November 2024, teams batting second have won by a margin of ten wickets on 68 occasions.
+
+=== Highest successful chases ===
+
+=== Narrowest win margins (by runs) ===
+The narrowest margin of victory by teams batting first is one run, which has been achieved in 35 ODIs. Australia have won by this margin on six occasions, which is the most for any team.
+
+=== Narrowest win margins (by balls remaining) ===
+Teams batting second have won on the final ball of their innings 40 times, with South Africa winning in such a manner seven times.
+
+=== Narrowest win margins (by wickets) ===
+79 ODIs have been won by a single wicket, with the West Indies recording twelve such victories.
+
+=== Lowest totals defended successfully ===
+
+=== Most consecutive wins ===
+
+=== Most consecutive defeats ===
+
+=== Most consecutive All out dismissals ===
+
+== Team scoring records ==
+
+=== Highest innings totals ===
+
+=== Highest innings total batting second ===
+
+=== Highest match aggregate ===
+
+=== Lowest innings totals ===
+
+=== Shortest completed innings (by balls) ===
+
+=== Most sixes in an innings ===
+
+=== Most fours in an innings ===
+
+=== Most individual hundreds in an innings ===
+
+=== Most individual hundreds in a match ===
+
+== Individual records (batting) ==
+
+=== Most career runs ===
+
+=== Most career runs – progression of record ===
+
+=== Most runs in each batting position ===
+
+=== Fastest to multiples of 1000 runs ===
+
+=== Highest individual scores ===
+
+=== Highest individual score (progression of record) ===
+
+=== Highest individual score at each position ===
+
+=== Highest career average ===
+
+=== Highest average at each position ===
+
+=== Highest strike rates ===
+
+=== Most centuries ===
+
+=== Most fifties ===
+
+=== Fastest fifties ===
+
+=== Fastest centuries ===
+
+=== Fastest double centuries ===
+
+=== Most sixes in career ===
+
+=== Most fours in career ===
+
+=== Most sixes in an innings ===
+
+=== Most fours in an innings ===
+
+=== Highest strike rates in an innings ===
+
+=== Most runs in a calendar year ===
+
+=== Most runs in a series ===
+
+=== Most runs in an over ===
+
+=== Most ducks in career ===
+
+=== Most innings before first duck ===
+
+=== Most runs in a career without scoring a century ===
+
+== Individual records (bowling) ==
+
+=== Most wickets ===
+
+=== Fastest to multiples of wickets ===
+
+=== Best innings figures ===
+
+=== Best innings figures – progression of record ===
+
+=== Best career bowling average ===
+
+=== Best career economy rate ===
+
+=== Best career bowling strike rate ===
+
+=== Most 5 wickets in an innings ===
+
+=== Most consecutive five wickets in an innings ===
+
+=== Best economy rates in an innings ===
+
+=== Best strike rates in an innings ===
+
+=== Most runs conceded in an innings ===
+
+=== Most wickets in a calendar year ===
+
+=== Most wickets in a series ===
+
+== Individual records (fielding) ==
+
+=== Most catches in ODI career ===
+
+=== Most catches in a series ===
+
+== Individual records (wicket-keeping) ==
+
+=== Most dismissals ===
+
+=== Most catches ===
+
+=== Most stumpings ===
+
+=== Most dismissals in a series ===
+
+== Individual match records ==
+
+=== Most matches played ===
+
+=== Most consecutive career matches ===
+
+=== Most matches played as captain ===
+
+=== Most matches won as a captain ===
+
+=== Youngest player on debut ===
+
+=== Oldest player on debut ===
+
+=== Oldest player ===
+
+=== Most Player-of-the-Match awards ===
+
+=== Most Player-of-the-series awards ===
+
+== Partnership records ==
+
+=== Highest partnerships ===
+
+=== Highest partnerships by wicket ===
+
+=== Highest overall partnership runs by a pair ===
+
+== Individual records (officials) ==
+
+=== Most matches as an umpire ===
+
+=== Most matches as a match referee ===
