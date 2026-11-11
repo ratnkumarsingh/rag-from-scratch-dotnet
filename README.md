@@ -35,6 +35,9 @@ dotnet run --project src/Rag.Web               # chat UI on http://localhost:514
 Other commands: `similarity`, `corpus --topic "..." --max N`, `extract`, `search`, `eval [--rerank]`, `selftest`.
 Run `dotnet run --project src/Rag.Cli` with no arguments for the full list.
 
+**See the [User Guide](docs/USER_GUIDE.md)** for setup details, the web chat, search modes, tips for asking
+good questions, adding your own documents, evaluation, configuration and troubleshooting.
+
 ## Data
 
 - `data/all_articles/`: 272 Wikipedia articles as plain text (94 on human rights, 178 on international cricket),
