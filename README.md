@@ -16,6 +16,19 @@ A local Retrieval-Augmented Generation (RAG) system in C# / .NET 10, built by fo
 | `src/Rag.Cli` | Console app `rag` exposing every step as a command |
 | `src/Rag.Web` | Minimal API + single-page chat UI that streams answers with their sources |
 
+## Software needed
+
+| Software | Version |
+|---|---|
+| .NET SDK | 10.0 |
+| Docker Desktop (or Docker Engine + Compose) | any recent |
+| Ollama | 0.40+ |
+| Git | any recent |
+| GPU (optional, recommended) | NVIDIA with 4 GB+ VRAM, or Apple Silicon |
+
+**New machine? Follow the [Installation Guide](docs/INSTALLATION.md)**: step-by-step setup for Windows,
+macOS and Linux, from installing the software to the first answer.
+
 ## Quick start
 
 ```bash

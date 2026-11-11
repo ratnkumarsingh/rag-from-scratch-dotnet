@@ -48,6 +48,9 @@ Everything runs on your own computer. No question or document is sent to the int
 
 ## 3. First-time setup
 
+> Installing on a new machine? The [Installation Guide](INSTALLATION.md) covers every step in detail,
+> including installing the software itself. This section is the short version.
+
 Run these from the repository root.
 
 ```bash
